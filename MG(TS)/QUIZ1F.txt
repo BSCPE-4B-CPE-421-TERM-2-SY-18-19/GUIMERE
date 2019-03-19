@@ -1,0 +1,4 @@
+Based on our observation, we found out that the fuse is defective. Since the fuse is defective, the power supply did not function causing us the inability to check the other parts of the computer system.
+posible solutions are:
+	- replacing the fuse of the power supply
+	- changing the power supply
